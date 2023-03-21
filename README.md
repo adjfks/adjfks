@@ -12,6 +12,5 @@
 
 <br>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="corner's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adjfks&bg_color=FFFFFF&color=409EFF&line=F85D7F&point=F85D7F&hide_border=true" /></a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adjfks&bg_color=d1faff&color=d638cc&line=d92020&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
