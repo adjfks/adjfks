@@ -12,5 +12,4 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adjfks&bg_color=d1faff&color=d638cc&line=d92020&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adjfks&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
