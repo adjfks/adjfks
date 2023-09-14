@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning vue3
+- 🌱 I’m currently learning react, react-native and taro
 - 📫 How to reach me: sptdfdzl@163.com
 
 <br/>
